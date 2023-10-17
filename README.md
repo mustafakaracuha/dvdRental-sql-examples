@@ -1,2 +1,1 @@
-# dvdRental_sql
-dvdRental Sql example
+# Patika Postgresql Ödevler
