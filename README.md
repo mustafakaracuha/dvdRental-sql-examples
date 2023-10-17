@@ -1,1 +1,1 @@
-# Patika Postgresql Ödevler
+# Patika Postgresql Examples
